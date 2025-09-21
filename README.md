@@ -113,3 +113,6 @@ PNEUMONIA: precision 0.91, recall 0.98
 → Hasta kaçırma (FN) çok düşük — sizin klinik önceliğinizle uyumlu.
 
 Not: Son koşuda T ≈ 2.08 ve threshold ≈ 0.85 çıktı; bu eşik, FP’yi kontrol altında tutarken PNEUMONIA recall’ını da çok yüksek bırakmış (olasılıklar belirgin ayrılmış).
+
+
+Kaynak data link: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
